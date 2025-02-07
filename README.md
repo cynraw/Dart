@@ -35,3 +35,13 @@ Every symbol, letter, or emoji you use in Dart has a unique Unicode code point. 
 The Unicode for the smiley face 😊 is U+1F60A.
 The Unicode for the heart ❤️ is U+2764.
 String.fromCharCodes() decodes the rune spell (Unicode values) into a readable string, turning the Unicode numbers into their corresponding symbols.
+
+## 🌟 Control Flow in Dart
+ Control flow allows you to decide which direction your code should take, whether to repeat an action, or jump to specific steps
+ - Control flow statements in Dart can be divided into three exciting categories:
+
+  Decision-Making Statements 🧠 (Make choices based on conditions)
+
+  Looping Statements 🔄 (Repeat code over and over)
+
+  Jump Statements 🏃‍♂️ (Hop around different parts of the code)
