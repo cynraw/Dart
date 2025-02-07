@@ -25,3 +25,6 @@ Includes Number,Strings,Boolean,Lists,Maps,Runes,Null
 ### Lists
 Dart List is similar to an array, which is the ordered collection of the objects. If you want to store multiple values without creating multiple variables, you can use a list.
 Lists keep things in a specific order
+
+### Maps
+A map is a dynamic collection that represents a set of values ​as key-value pairs. Keys and values ​in the map can be of any type. Maps are like labeled boxes where each label (key) stores a specific value!
