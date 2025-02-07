@@ -24,3 +24,4 @@ Variables are used to store data that can be used and manipulated throughout you
 Includes Number,Strings,Boolean,Lists,Maps,Runes,Null
 ### Lists
 Dart List is similar to an array, which is the ordered collection of the objects. If you want to store multiple values without creating multiple variables, you can use a list.
+Lists keep things in a specific order
