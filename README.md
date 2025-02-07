@@ -40,8 +40,8 @@ String.fromCharCodes() decodes the rune spell (Unicode values) into a readable s
  Control flow allows you to decide which direction your code should take, whether to repeat an action, or jump to specific steps
  - Control flow statements in Dart can be divided into three exciting categories:
 
-  Decision-Making Statements 🧠 (Make choices based on conditions)
+ ✔ Decision-Making Statements 🧠 (Make choices based on conditions)
 
-  Looping Statements 🔄 (Repeat code over and over)
+ ✔ Looping Statements 🔄 (Repeat code over and over)
 
-  Jump Statements 🏃‍♂️ (Hop around different parts of the code)
+ ✔ Jump Statements 🏃‍♂️ (Hop around different parts of the code)
