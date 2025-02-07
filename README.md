@@ -28,3 +28,9 @@ Lists keep things in a specific order
 
 ### Maps
 A map is a dynamic collection that represents a set of values ​as key-value pairs. Keys and values ​in the map can be of any type. Maps are like labeled boxes where each label (key) stores a specific value!
+
+### Runes
+A rune can be defined as an integer used to represent any Unicode code point. As a Dart string is a simple sequence of UTF-16 code units, 32-bit Unicode values in a string are represented using a special syntax.
+Every symbol, letter, or emoji you use in Dart has a unique Unicode code point. For example:
+The Unicode for the smiley face 😊 is U+1F60A.
+The Unicode for the heart ❤️ is U+2764.
