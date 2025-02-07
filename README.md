@@ -34,3 +34,4 @@ A rune can be defined as an integer used to represent any Unicode code point. 
 Every symbol, letter, or emoji you use in Dart has a unique Unicode code point. For example:
 The Unicode for the smiley face 😊 is U+1F60A.
 The Unicode for the heart ❤️ is U+2764.
+String.fromCharCodes() decodes the rune spell (Unicode values) into a readable string, turning the Unicode numbers into their corresponding symbols.
