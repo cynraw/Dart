@@ -42,6 +42,6 @@ String.fromCharCodes() decodes the rune spell (Unicode values) into a readable s
 
  ✔ Decision-Making Statements 🧠 (Make choices based on conditions) - If Statement, If-else Statements, Switch Case Statement
 
- ✔ Looping Statements 🔄 (Repeat code over and over)
+ ✔ Looping Statements 🔄 (Repeat code over and over) - for loop, For...in loop, while loop, do..while, 
 
- ✔ Jump Statements 🏃‍♂️ (Hop around different parts of the code)
+ ✔ Jump Statements 🏃‍♂️ (Hop around different parts of the code)- return, assert, jump, continue
