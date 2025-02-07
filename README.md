@@ -9,10 +9,6 @@ Dart is an open-source programming language  developed by the wizards at Google
 
 🚀 Null safety & async programming built right in! Write reliable, bug-free code while multitasking like a pro.
 
-## Hello World
-void main() {
-  print('Hello, World! ');
-}
 
 ## Variables in Dart
 Variables are used to store data that can be used and manipulated throughout your program. In Dart, you can declare variables using var, final, or const.
