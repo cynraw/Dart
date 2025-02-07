@@ -8,3 +8,8 @@ Dart is an open-source programming language  developed by the wizards at Google
 💻 Code once, run anywhere: Dart can compile into native code or JavaScript! Magic, right?
 
 🚀 Null safety & async programming built right in! Write reliable, bug-free code while multitasking like a pro.
+
+## Hello World
+void main() {
+  print('Hello, World! ');
+}
